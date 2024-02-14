@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.degis{
+color: #5bc0de;
+cursor: pointer;
+}
+.degis:hover{
+color: gold;
+}
+.basket{
+height: 300px;
+overflow: auto;
+border: 10px solid #5bc0de;
+color: #5bc0de;
+}
